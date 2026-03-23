@@ -1,0 +1,27 @@
+# AI Employee - Bronze Tier
+# Python dependencies
+
+# Core dependencies
+# No external dependencies required for Bronze tier!
+# Uses only Python standard library modules:
+#   - pathlib (file operations)
+#   - logging (logging)
+#   - time (sleep/delays)
+#   - abc (abstract base classes)
+#   - datetime (timestamps)
+#   - hashlib (ID generation)
+#   - shutil (file operations)
+#   - re (regex operations)
+#   - argparse (command-line parsing)
+#   - subprocess (process management)
+
+# Optional dependencies for future tiers:
+# watchdog>=3.0.0     # Silver tier: Real-time file system monitoring
+# requests>=2.31.0    # Silver tier: API calls (Gmail, etc.)
+# playwright>=1.40.0  # Silver tier: WhatsApp Web automation
+# google-api-python-client>=2.100.0  # Silver tier: Gmail API
+# google-auth-httplib2>=0.1.0  # Silver tier: Gmail authentication
+# google-auth-oauthlib>=1.1.0  # Silver tier: Gmail OAuth
+
+# To install optional dependencies for Silver tier:
+# pip install watchdog requests playwright google-api-python-client google-auth-httplib2 google-auth-oauthlib

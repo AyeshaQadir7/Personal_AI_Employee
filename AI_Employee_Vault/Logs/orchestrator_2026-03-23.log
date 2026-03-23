@@ -1,0 +1,100 @@
+2026-03-23 02:12:46,521 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 02:12:46,542 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 02:12:46,550 - Orchestrator - INFO - Claude integration: enabled
+2026-03-23 02:12:46,830 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 02:17:46,866 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:22:46,880 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:27:46,908 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:32:46,922 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:37:46,936 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:42:08,469 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 02:42:08,477 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 02:42:08,482 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 02:42:08,482 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 02:42:46,955 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:47:46,969 - Orchestrator - ERROR - Could not update dashboard: 'charmap' codec can't decode byte 0x8f in position 717: character maps to <undefined>
+2026-03-23 02:51:09,386 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 02:51:09,389 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 02:51:09,389 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 02:51:09,390 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 02:51:09,391 - Orchestrator - INFO - Found 1 item(s) in /Needs_Action
+2026-03-23 02:51:09,391 - Orchestrator - INFO - Processing: FILE_watcher_test_file.txt_2026-03-23_02-50-39.md
+2026-03-23 02:51:09,396 - Orchestrator - INFO - Claude integration disabled - manual processing required
+2026-03-23 02:57:18,299 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 02:57:18,300 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 02:57:18,301 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 02:57:18,301 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 02:59:57,096 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 02:59:57,096 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 02:59:57,097 - Orchestrator - INFO - Claude integration: enabled
+2026-03-23 02:59:57,097 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 03:04:57,125 - Orchestrator - INFO - Dashboard updated
+2026-03-23 03:09:57,145 - Orchestrator - INFO - Dashboard updated
+2026-03-23 03:13:04,290 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-23 03:13:04,298 - Orchestrator - INFO - Dashboard updated
+2026-03-23 03:13:40,030 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 03:13:40,033 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 03:13:40,035 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 03:13:40,036 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 03:18:40,070 - Orchestrator - INFO - Dashboard updated
+2026-03-23 03:19:57,463 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-23 03:19:57,472 - Orchestrator - INFO - Dashboard updated
+2026-03-23 03:20:27,404 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 03:20:27,405 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 03:20:27,405 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 03:20:27,405 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 03:20:57,408 - Orchestrator - INFO - Found 1 item(s) in /Needs_Action
+2026-03-23 03:20:57,409 - Orchestrator - INFO - Processing: FILE_test-file.md_2026-03-23_03-20-49.md
+2026-03-23 03:20:57,415 - Orchestrator - INFO - Claude integration disabled - manual processing required
+2026-03-23 14:54:56,227 - Orchestrator - INFO - Dashboard updated
+2026-03-23 14:59:56,242 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:04:56,258 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:33:38,359 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:38:38,373 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:43:38,385 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:44:16,719 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-23 15:44:16,726 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:44:21,294 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 15:44:21,294 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 15:44:21,295 - Orchestrator - INFO - Claude integration: disabled
+2026-03-23 15:44:21,295 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 15:49:21,310 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:54:21,323 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:56:22,142 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 15:56:22,142 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 15:56:22,143 - Orchestrator - INFO - Qwen integration: disabled
+2026-03-23 15:56:22,143 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 15:57:50,012 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-23 15:57:50,017 - Orchestrator - INFO - Dashboard updated
+2026-03-23 15:58:02,418 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 15:58:02,419 - Orchestrator - INFO - Vault: AI_Employee_Vault
+2026-03-23 15:58:02,419 - Orchestrator - INFO - Qwen integration: enabled
+2026-03-23 15:58:02,419 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 16:03:02,444 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:08:02,461 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:13:02,475 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:18:02,510 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:23:02,532 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:23:32,849 - Orchestrator - INFO - Orchestrator stopped by user
+2026-03-23 16:23:32,883 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:23:39,289 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 16:23:39,289 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 16:23:39,289 - Orchestrator - INFO - Qwen integration: disabled
+2026-03-23 16:23:39,290 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 16:26:15,812 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 16:26:15,812 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 16:26:15,812 - Orchestrator - INFO - Qwen integration: disabled
+2026-03-23 16:26:15,812 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 16:27:39,299 - Orchestrator - INFO - Found 1 item(s) in /Needs_Action
+2026-03-23 16:27:39,300 - Orchestrator - INFO - Processing: FILE_direct_test_file.txt_2026-03-23_16-27-21.md
+2026-03-23 16:27:39,345 - Orchestrator - INFO - Qwen integration disabled - manual processing required
+2026-03-23 16:28:39,353 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:29:08,941 - Orchestrator - INFO - Orchestrator initialized
+2026-03-23 16:29:08,942 - Orchestrator - INFO - Vault: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 16:29:08,943 - Orchestrator - INFO - Qwen integration: disabled
+2026-03-23 16:29:08,944 - Orchestrator - INFO - Starting Orchestrator
+2026-03-23 16:29:38,946 - Orchestrator - INFO - Found 1 item(s) in /Needs_Action
+2026-03-23 16:29:38,947 - Orchestrator - INFO - Processing: FILE_test_employee_001.txt_2026-03-23_16-29-11.md
+2026-03-23 16:29:38,950 - Orchestrator - INFO - Qwen integration disabled - manual processing required
+2026-03-23 16:33:39,367 - Orchestrator - INFO - Dashboard updated
+2026-03-23 16:38:39,384 - Orchestrator - INFO - Dashboard updated

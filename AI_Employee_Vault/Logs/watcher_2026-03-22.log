@@ -1,0 +1,5 @@
+2026-03-22 22:04:46,902 - FilesystemWatcher - INFO - Found 6 existing file(s) in drop folder
+2026-03-22 22:04:46,903 - FilesystemWatcher - INFO - Drop folder: E:\personal_ai_employee
+2026-03-22 22:04:46,907 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-22 22:04:46,910 - FilesystemWatcher - INFO - Vault path: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-22 22:04:46,912 - FilesystemWatcher - INFO - Check interval: 2s
