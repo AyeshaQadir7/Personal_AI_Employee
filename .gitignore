@@ -1,0 +1,49 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# AI Employee Vault (keep structure but exclude logs/state)
+AI_Employee_Vault/Logs/*.log
+AI_Employee_Vault/In_Progress/
+AI_Employee_Vault/Needs_Action/
+AI_Employee_Vault/Pending_Approval/
+AI_Employee_Vault/Approved/
+AI_Employee_Vault/Done/
+AI_Employee_Vault/Plans/
+AI_Employee_Vault/.qwen_prompt.md
+AI_Employee_Vault/.state_*.txt
+
+# Secrets - NEVER COMMIT THESE
+credentials.json
+token.json
+*.env
+.env
+
+# Temporary files
+temp/
+tests/
+*.png
+*.jpg
+*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/

@@ -1,0 +1,11 @@
+
+TASK: Process this employee test
+
+This is a test of the AI Employee system.
+
+Actions needed:
+1. Read this file
+2. Create a plan
+3. Move to Done when complete
+
+Test ID: EMP-TEST-001

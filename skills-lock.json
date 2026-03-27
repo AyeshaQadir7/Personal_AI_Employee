@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "skills": {
+    "browsing-with-playwright": {
+      "source": "bilalmk/todo_correct",
+      "sourceType": "github",
+      "computedHash": "f73daf75e38650c202e61f652a26578db157f8423e8bcf283bcd93b441641461",
+      "tier": "bronze"
+    },
+    "gmail-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/gmail-watcher",
+      "tier": "silver",
+      "description": "Monitor Gmail for new unread messages with OAuth2 integration"
+    },
+    "whatsapp-watcher": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/whatsapp-watcher",
+      "tier": "silver",
+      "description": "Monitor WhatsApp Web for urgent messages using Playwright"
+    },
+    "email-mcp-server": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/email-mcp-server",
+      "tier": "silver",
+      "description": "MCP server for sending emails via Gmail API"
+    },
+    "linkedin-mcp-server": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/linkedin-mcp-server",
+      "tier": "silver",
+      "description": "MCP server for LinkedIn posting automation"
+    },
+    "hitl-approval-workflow": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/hitl-approval-workflow",
+      "tier": "silver",
+      "description": "Human-in-the-Loop approval workflow for sensitive actions"
+    },
+    "scheduler": {
+      "source": "local",
+      "sourceType": "local",
+      "path": ".agents/skills/scheduler",
+      "tier": "silver",
+      "description": "Task scheduler for daily briefings and weekly audits"
+    }
+  },
+  "tier_summary": {
+    "bronze": 1,
+    "silver": 6,
+    "gold": 0,
+    "platinum": 0
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "servers": [
+    {
+      "name": "email",
+      "command": "python",
+      "args": [
+        "E:\\personal_ai_employee\\.agents\\skills\\email-mcp-server\\scripts\\email_mcp_server.py"
+      ],
+      "env": {
+        "GMAIL_CREDENTIALS_PATH": "E:\\personal_ai_employee\\credentials.json"
+      }
+    },
+    {
+      "name": "browser",
+      "command": "npx",
+      "args": [
+        "@playwright/mcp"
+      ],
+      "env": {
+        "HEADLESS": "true"
+      }
+    },
+    {
+      "name": "linkedin",
+      "command": "python",
+      "args": [
+        "E:\\personal_ai_employee\\.agents\\skills\\linkedin-mcp-server\\scripts\\linkedin_mcp_server.py"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+# AI Employee - Silver Tier
+# Python dependencies
+
+# =============================================================================
+# Core Dependencies (Required for all tiers)
+# =============================================================================
+# No external dependencies required for Bronze tier!
+# Uses only Python standard library modules:
+#   - pathlib (file operations)
+#   - logging (logging)
+#   - time (sleep/delays)
+#   - abc (abstract base classes)
+#   - datetime (timestamps)
+#   - hashlib (ID generation)
+#   - shutil (file operations)
+#   - re (regex operations)
+#   - argparse (command-line parsing)
+#   - subprocess (process management)
+
+# =============================================================================
+# Silver Tier Dependencies
+# =============================================================================
+
+# Gmail API integration (Gmail Watcher + Email MCP Server)
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.1.0
+google-auth-oauthlib>=1.1.0
+
+# Browser automation (WhatsApp Watcher + LinkedIn MCP Server)
+playwright>=1.40.0
+
+# =============================================================================
+# Optional Dependencies
+# =============================================================================
+
+# Real-time file system monitoring (alternative to polling)
+# watchdog>=3.0.0
+
+# HTTP requests for custom API integrations
+# requests>=2.31.0
+
+# Python-based scheduling (cross-platform alternative to cron/Task Scheduler)
+# APScheduler>=3.10.0
+
+# =============================================================================
+# Installation Commands
+# =============================================================================
+
+# Silver Tier (all dependencies):
+#   pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib playwright
+#   playwright install chromium
+
+# With optional dependencies:
+#   pip install google-api-python-client google-auth-httplib2 google-auth-oauthlib playwright watchdog requests APScheduler

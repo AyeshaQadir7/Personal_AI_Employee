@@ -1,0 +1,10 @@
+ I want the 
+ 1. Gmail watcher to detect email, create a md file for that email 
+ 2. Orchestrator triggers qwen code 
+ 3. Qwen code creates plan.md in /Plans/
+ 4. Qwen creates md file on /Pending_Approval/
+ 5. I move the file to /Approved/
+ 6. Orchestartor detects approved files
+ 7. Orchestrator calls email MCP Server
+ 8. Email is sent automaticaly
+ 9. File moved to /Done/
