@@ -56,13 +56,13 @@ fiscal_year: 2026
 
 ## 📅 Quarterly Deadlines
 
-| Date   | Event             | Status     |
-| ------ | ----------------- | ---------- |
-| Jan 15 | Project Alpha Due |  ⚪ Pending |
-| Jan 30 | Project Beta Due  | ⚪ Pending  |
-| Jan 31 | Q4 Tax Filing     | ⚪ Pending  |
-| Feb 15 | Q1 Estimated Tax  | ⚪ Pending  |
-| Mar 31 | Q1 End            | ⚪ Pending  |
+| Date | Event | Status |
+|------|-------|--------|
+| Jan 15 | Project Alpha Due | ⚪ Pending |
+| Jan 30 | Project Beta Due | ⚪ Pending |
+| Jan 31 | Q4 Tax Filing | ⚪ Pending |
+| Feb 15 | Q1 Estimated Tax | ⚪ Pending |
+| Mar 31 | Q1 End | ⚪ Pending |
 
 ---
 

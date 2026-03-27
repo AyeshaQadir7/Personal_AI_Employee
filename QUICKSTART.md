@@ -19,7 +19,6 @@ python src\filesystem_watcher.py AI_Employee_Vault
 ```
 
 You should see:
-
 ```
 📁 Filesystem Watcher Started
    Vault: AI_Employee_Vault

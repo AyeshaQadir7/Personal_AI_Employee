@@ -1,0 +1,117 @@
+2026-03-23 02:12:15,444 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 02:12:15,446 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 02:12:15,446 - FilesystemWatcher - INFO - Drop folder: C:\Users\aysha\AI_Employee_Drop
+2026-03-23 02:12:15,448 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 02:12:15,448 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 02:12:15,448 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 02:43:38,833 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 02:43:38,837 - FilesystemWatcher - INFO - Found 6 existing file(s) in drop folder
+2026-03-23 02:43:38,837 - FilesystemWatcher - INFO - Drop folder: E:\personal_ai_employee
+2026-03-23 02:50:39,472 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 02:50:39,475 - FilesystemWatcher - INFO - Found 8 existing file(s) in drop folder
+2026-03-23 02:50:39,476 - FilesystemWatcher - INFO - Drop folder: E:\personal_ai_employee
+2026-03-23 02:50:39,479 - FilesystemWatcher - INFO - New file detected: watcher_test_file.txt
+2026-03-23 02:50:39,508 - FilesystemWatcher - INFO - Copied file to inbox: FILE_watcher_test_file.txt
+2026-03-23 02:57:43,530 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 02:57:43,532 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 02:57:43,532 - FilesystemWatcher - INFO - Drop folder: C:\Users\aysha\AI_Employee_Drop
+2026-03-23 02:57:43,535 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 02:57:43,535 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 02:57:43,535 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 02:57:55,180 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 02:57:55,183 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 02:59:42,314 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 02:59:42,315 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 02:59:42,315 - FilesystemWatcher - INFO - Drop folder: C:\Users\aysha\AI_Employee_Drop
+2026-03-23 02:59:42,317 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 02:59:42,317 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 02:59:42,317 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:06:35,384 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:06:35,385 - FilesystemWatcher - INFO - Found 2 existing file(s) in drop folder
+2026-03-23 03:06:35,385 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 03:06:35,387 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 03:06:35,388 - FilesystemWatcher - INFO - Vault path: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 03:06:35,389 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:07:44,377 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:07:44,378 - FilesystemWatcher - INFO - Found 3 existing file(s) in drop folder
+2026-03-23 03:07:44,378 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 03:07:44,380 - FilesystemWatcher - INFO - New file detected: direct_test.txt
+2026-03-23 03:12:37,760 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 03:12:37,761 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 03:12:51,757 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:12:51,759 - FilesystemWatcher - INFO - Found 1 existing file(s) in drop folder
+2026-03-23 03:12:51,760 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 03:12:51,761 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 03:12:51,761 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 03:12:51,762 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:12:58,867 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 03:12:58,869 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 03:13:25,650 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:13:25,651 - FilesystemWatcher - INFO - Found 1 existing file(s) in drop folder
+2026-03-23 03:13:25,652 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 03:13:25,654 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 03:13:25,655 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 03:13:25,655 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:19:26,045 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 03:19:26,048 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 03:19:29,997 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:19:29,998 - FilesystemWatcher - INFO - Found 1 existing file(s) in drop folder
+2026-03-23 03:19:29,998 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 03:19:30,001 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 03:19:30,001 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 03:19:30,002 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:19:53,720 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 03:19:53,721 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 03:20:24,535 - FilesystemWatcher - INFO - Loaded 0 previously processed IDs
+2026-03-23 03:20:24,536 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 03:20:24,537 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 03:20:24,539 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 03:20:24,539 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 03:20:24,540 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 03:20:49,564 - FilesystemWatcher - INFO - New file detected: test-file.md
+2026-03-23 03:20:49,565 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-23 03:20:49,569 - FilesystemWatcher - INFO - Created action file: FILE_test-file.md_2026-03-23_03-20-49.md
+2026-03-23 15:44:09,518 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 15:44:09,520 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 15:44:13,433 - FilesystemWatcher - INFO - Loaded 1 previously processed IDs
+2026-03-23 15:44:13,434 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 15:44:13,434 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 15:44:13,435 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 15:44:13,436 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 15:44:13,436 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 15:45:28,467 - FilesystemWatcher - INFO - New file detected: test-file.md
+2026-03-23 15:45:28,467 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-23 15:57:14,490 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 15:57:14,493 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 15:57:17,818 - FilesystemWatcher - INFO - Loaded 1 previously processed IDs
+2026-03-23 15:57:17,820 - FilesystemWatcher - INFO - Found 1 existing file(s) in drop folder
+2026-03-23 15:57:17,820 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 15:57:17,821 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 15:57:17,822 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 15:57:17,822 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 15:57:39,421 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 15:57:39,426 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 15:57:42,540 - FilesystemWatcher - INFO - Loaded 1 previously processed IDs
+2026-03-23 15:57:42,541 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 15:57:42,541 - FilesystemWatcher - INFO - Watching Inbox: AI_Employee_Vault\Inbox
+2026-03-23 15:57:42,542 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 15:57:42,542 - FilesystemWatcher - INFO - Vault path: AI_Employee_Vault
+2026-03-23 15:57:42,542 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 16:23:25,267 - FilesystemWatcher - INFO - Loaded 1 previously processed IDs
+2026-03-23 16:23:25,268 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 16:23:25,268 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 16:23:36,348 - FilesystemWatcher - INFO - Watcher stopped by user
+2026-03-23 16:23:36,353 - FilesystemWatcher - INFO - FilesystemWatcher shutdown complete
+2026-03-23 16:26:13,856 - FilesystemWatcher - INFO - Found 1 existing file(s) in drop folder
+2026-03-23 16:26:13,856 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 16:27:21,296 - FilesystemWatcher - INFO - Found 2 existing file(s) in drop folder
+2026-03-23 16:27:21,297 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 16:27:21,316 - FilesystemWatcher - INFO - New file detected: direct_test_file.txt
+2026-03-23 16:29:06,971 - FilesystemWatcher - INFO - Found 0 existing file(s) in drop folder
+2026-03-23 16:29:06,972 - FilesystemWatcher - INFO - Watching Inbox: E:\personal_ai_employee\AI_Employee_Vault\Inbox
+2026-03-23 16:29:06,973 - FilesystemWatcher - INFO - Starting FilesystemWatcher
+2026-03-23 16:29:06,974 - FilesystemWatcher - INFO - Vault path: E:\personal_ai_employee\AI_Employee_Vault
+2026-03-23 16:29:06,975 - FilesystemWatcher - INFO - Check interval: 5s
+2026-03-23 16:29:11,977 - FilesystemWatcher - INFO - New file detected: test_employee_001.txt
+2026-03-23 16:29:11,988 - FilesystemWatcher - INFO - Found 1 new item(s)
+2026-03-23 16:29:11,989 - FilesystemWatcher - INFO - Created action file: FILE_test_employee_001.txt_2026-03-23_16-29-11.md

@@ -11,14 +11,10 @@
             "id": "5466f3786c1f08df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dashboard"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dashboard"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Inbox/test-file.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dashboard"
+              "title": "Outline of test-file"
             }
           }
         ]
@@ -185,41 +179,31 @@
   },
   "active": "a38a05b5e463afbd",
   "lastOpenFiles": [
-    "Done/APPROVAL_Send_Working_Hours_Response_2026-03-27.md",
-    "Done/EMAIL_WORKING HOURS_2026-03-27_20-18-01.md",
-    "Approved/APPROVAL_Send_Working_Hours_Response_2026-03-27.md",
-    "Plans/EMAIL_Draft_Working_Hours_Response_2026-03-27.md",
-    "Plans/PLAN_Working_Hours_Inquiry_2026-03-27.md",
-    "Plans/PLAN_EMAIL_WORKING HOURS_2026-03-27_20-18-01.md",
-    "In_Progress/EMAIL_WORKING HOURS_2026-03-27_20-18-01.md",
-    "Needs_Action/EMAIL_WORKING HOURS_2026-03-27_20-18-01.md",
-    "Plans/PLAN_EMAIL_Alice, add Saba T. - Graphic Designer_2026-03-27_20-11-57.md",
-    "In_Progress/EMAIL_Alice, add Saba T. - Graphic Designer_2026-03-27_20-11-57.md",
-    "Needs_Action/EMAIL_Alice, add Saba T. - Graphic Designer_2026-03-27_20-11-57.md",
-    "Plans/PLAN_EMAIL_Working Hours_2026-03-27_20-09-55.md",
-    "In_Progress/EMAIL_Working Hours_2026-03-27_20-09-55.md",
-    "Plans/PLAN_EMAIL_Extra 20% off $125+_2026-03-27_20-09-51.md",
-    "In_Progress/EMAIL_Extra 20% off $125+_2026-03-27_20-09-51.md",
-    "Plans/PLAN_EMAIL_20% OFF is waiting for you 😍_2026-03-27_20-09-52.md",
-    "In_Progress/EMAIL_20% OFF is waiting for you 😍_2026-03-27_20-09-52.md",
-    "Needs_Action/EMAIL_Working Hours_2026-03-27_20-09-55.md",
-    "Needs_Action/EMAIL_20% OFF is waiting for you 😍_2026-03-27_20-09-52.md",
-    "Needs_Action/EMAIL_Extra 20% off $125+_2026-03-27_20-09-51.md",
-    "Done/APPROVAL_Send_Invoice_Email_January_2026-03-27.md",
-    "Approved/APPROVAL_Send_Invoice_Email_January_2026-03-27.md",
-    "Approved/APPROVAL_Send_Invoice_Email_January_2026-03-27.md",
-    "Pending_Approval/APPROVAL_Send_Invoice_Email_January_2026-03-27.md",
-    "Done/EMAIL_Send me an Invocie_2026-03-27_16-19-40.md",
-    "Plans/EMAIL_Draft_Response_Invoice_January_2026-03-27.md",
-    "Logs/watcher_2026-03-27.log",
-    "Logs/orchestrator_2026-03-27.log",
-    "Logs/activity_2026-03-27.log",
-    "Logs/orchestrator_2026-03-26.log",
-    "Logs/activity_2026-03-26.log",
-    "Logs/activity_2026-03-25.log",
-    "Logs/watcher_2026-03-25.log",
-    "Logs/watcher_2026-03-24.log",
-    "Logs/activity_2026-03-24.log",
-    "Inbox/fresh-test-4pm.txt"
+    "Plans/PLAN_FILE_test_employee_001.txt_2026-03-23_16-29-11.md",
+    "In_Progress/FILE_test_employee_001.txt_2026-03-23_16-29-11.md",
+    "Needs_Action/FILE_test_employee_001.txt_2026-03-23_16-29-11.md",
+    "Inbox/test_employee_001.txt",
+    "Plans/PLAN_FILE_direct_test_file.txt_2026-03-23_16-27-21.md",
+    "In_Progress/FILE_direct_test_file.txt_2026-03-23_16-27-21.md",
+    "Needs_Action/FILE_direct_test_file.txt_2026-03-23_16-27-21.md",
+    "Inbox/direct_test_file.txt",
+    "Inbox/test_invoice_2026.txt",
+    "Inbox/invoice_acme_jan2026.txt",
+    "Dashboard.md",
+    "Inbox/test-file.md",
+    "Needs_Action/FILE_test-file.md_2026-03-23_03-20-49.md",
+    "Plans/PLAN_FILE_test-file.md_2026-03-23_03-20-49.md",
+    "In_Progress/FILE_test-file.md_2026-03-23_03-20-49.md",
+    "Company_Handbook.md",
+    "Needs_Action/FILE_direct_test.txt_2026-03-23_03-07-44.md",
+    "Inbox/direct_test.txt",
+    "Inbox/new_file_test.txt",
+    "Inbox/inbox_test.txt",
+    "Inbox",
+    "Plans",
+    "In_Progress",
+    "Plans/PLAN_FILE_watcher_test_file.txt_2026-03-23_02-50-39.md",
+    "In_Progress/FILE_watcher_test_file.txt_2026-03-23_02-50-39.md",
+    "Needs_Action/FILE_watcher_test_file.txt_2026-03-23_02-50-39.md"
   ]
 }
