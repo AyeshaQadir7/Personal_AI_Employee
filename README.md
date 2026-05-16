@@ -1,4 +1,4 @@
-# AI Employee - Bronze Tier Setup Guide
+# AI Employee - Silver and Bronze Tier Setup Guide
 
 > **Your life and business on autopilot. Local-first, agent-driven, human-in-the-loop.**
 
